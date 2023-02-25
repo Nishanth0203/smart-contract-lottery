@@ -9,8 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "moralis": "^2.14.2",
+    "moralis-v1": "^1.12.0",
     "next": "13.2.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-moralis": "^1.4.2",
+    "web3uikit": "^1.0.4"
+  },
+  "devDependencies": {
+    "hardhat": "^2.12.7",
+    "prettier": "^2.8.4"
   }
 }
